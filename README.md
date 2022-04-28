@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <img src="https://telegra.ph/file/7e61fe06a9c02747249c4.jpg">
+  <img src="https://i2.extraimage.info/pix/2022/04/28/247bf0cf2151118750698457cbf00e73.jpg">
 </p>
 
-# YoneRobot
-Me On Telegram [✨Yone✨](https://t.me/Yone_Robot)
+# Freeplay_Bot
+Me On Telegram [✨Clone✨](https://t.me/@FreeplayOfficial_bot)
 
 ## How To Host
 The easiest way to deploy this Bot
