@@ -14,7 +14,7 @@
 </p>
 
 # Freeplay_Bot
-Me On Telegram [✨Clone✨](https://t.me/FreeplayOfficial_bot)
+Find me on telegram [✨Clone✨](https://t.me/FreeplayOfficial_bot)
 
 ## Deploy on Heroku
 The easiest way to deploy this Bot
