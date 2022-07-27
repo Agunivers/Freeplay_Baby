@@ -18,7 +18,7 @@ Find me on telegram [✨Clone✨](https://t.me/FreeplayOfficial_bot)
 
 ## Deploy on Heroku
 The easiest way to deploy this Bot
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Soumyabrata-eng/Freeplay_Baby"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Agunivers/Freeplay_Baby"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
  
 
 
